@@ -54,7 +54,7 @@ namespace NumberGuesser
                 }
                 else
                 {
-                    return;
+                    break;
                 }
 
             }
